@@ -1,0 +1,2 @@
+E:\DOC\Maestria Ing. De Software\Ambientes de Desarrollo de Software\dirtycode-dot-net-master\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+E:\DOC\Maestria Ing. De Software\Ambientes de Desarrollo de Software\dirtycode-dot-net-master\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
